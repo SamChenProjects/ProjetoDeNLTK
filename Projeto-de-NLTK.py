@@ -1,3 +1,6 @@
+#Instalação no Terminal
+pip install nltk
+
 # Projeto de NLTK
 import nltk
 from nltk.corpus import mac_morpho
